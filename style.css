@@ -1,0 +1,31 @@
+.traffic-light {
+    margin: 30px auto;
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    border-radius: 50%;
+}
+
+.traffic-light_red{
+    background-color: red;
+}
+
+.traffic-light_yellow{
+    background-color: yellow;
+}
+
+.traffic-light_green{
+    background-color:green;
+}
+
+.container {
+    margin-top: 200px;
+}
+
+h1 {
+    margin: 50px auto;
+}
+
+.check {
+    margin: 50px auto;
+}
